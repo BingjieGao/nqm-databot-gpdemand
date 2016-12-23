@@ -1,0 +1,30 @@
+{
+   "shareKeyId":"H1g9B29Ele",
+   "shareKeySecret":"1234554321",
+   "instanceId": "",
+   "instanceName": "",
+   "instancePort": 3100,
+   "instanceAuthKey": "",
+   "chunkNumber": "",
+   "chunkTotal": "",
+   "commandHost": "https://cmd.nq-m.com",
+   "queryHost": "https://q.nq-m.com",
+   "accessToken": "",
+   "inputSchema": {
+   },
+   "outputSchema": {
+   },
+   "packageParams": {
+       "consultationRates":"EkZjV5MGIx",
+       "popletsTable":"SJxzMvRIye",
+       "aggregations":{
+           "year":"2016",
+           "age_band":"5-9",
+           "gender":"female"
+       },
+       "ageBands":["0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85-89","90+"],
+       "timerFrequency":6000,
+       "accessTokenTTL":31536000,
+       "imgLength":360
+   }
+}

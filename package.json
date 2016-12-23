@@ -1,0 +1,16 @@
+{
+  "name": "nqm-databot-gpdemand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.3.3",
+    "lodash": "^4.17.2",
+    "nqm-api-tdx": "^0.1.27"
+  }
+}
